@@ -1,0 +1,5 @@
+name: GorilloGames
+version: '${project.version}'
+main: com.metaxcrew.plugin.gorillogames.GorilloGames
+api-version: 1.18
+authors: [ PxLib ]
